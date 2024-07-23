@@ -29,7 +29,7 @@ const Navbar = () => {
       <div className="flex container lg:py-4 flex-wrap items-center justify-between mx-auto px-4 py-2">
         <Link href="/" className="flex items-center">
           <Image
-            src="/images/as-logo.png"  // Update this path to match your logo image
+            src="/images/new-as-trans-logo.png"  // Update this path to match your logo image
             alt="Logo"
             width={150}  // Adjust the width as needed
             height={100}  // Adjust the height as needed
