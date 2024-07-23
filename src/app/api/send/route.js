@@ -4,7 +4,7 @@ import { Resend_API_Key } from './APIKey.js';
 
 // Resend API Key in enclosed in quotes
 const resend = new Resend(Resend_API_Key);
-// const fromEmail = 'Contact@Devomb.xyz';
+const fromEmail = 'ayaan@impactcode.org';
 
 export async function POST(req, res) {
   const { email, subject, message } = await req.json();
