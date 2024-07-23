@@ -31,8 +31,8 @@ const Navbar = () => {
           <Image
             src="/images/new-as-trans-logo.png"  // Update this path to match your logo image
             alt="Logo"
-            width={150}  // Adjust the width as needed
-            height={100}  // Adjust the height as needed
+            width={75}  // Adjust the width as needed
+            height={75}  // Adjust the height as needed
             className="object-contain"  // Ensures the image maintains aspect ratio
           />
         </Link>
