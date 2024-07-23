@@ -53,7 +53,7 @@ const projectsData = [
   {
     id: 6,
     title: "FBLA External Communications Director",
-    description: "Managing all external communication for the largest local chapter in the nation with 1100+ members through press releases, and guest speakers.",
+    description: "Managing all external communication for the largest local chapter in the nation with 1100+ members through press releases and guest speakers.",
     image: "/images/projects/fbla-full.png",
     tag: ["All","Initiatives"],
     gitUrl: "javascript:void(0)",
