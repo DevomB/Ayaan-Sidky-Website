@@ -25,7 +25,7 @@ const TAB_DATA = [
     id: "awards",
     content: (
       <ul className="list-disc pl-2">
-        <li>President's Volunteer Service Award Gold</li>
+        <li>President&apos;s Volunteer Service Award Gold</li>
         <li>National Team Banking and Financial Systems</li>
         <li>7th Digital Video Production</li>
         <li>Honors with Distinction</li>
