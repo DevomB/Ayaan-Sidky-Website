@@ -71,7 +71,7 @@ const AboutSection = () => {
         <div className="mt-4 md:mt-0 text-left flex flex-col h-full">
           <h2 className="text-4xl font-bold text-white mb-4">About Me</h2>
           <p className="text-base lg:text-lg">
-          Ayaan Sidky is an special education entrepreneurial rising junior with a profound interest in the integration of finance and technology in the business world. He&apos;s passionate and dedicated to staying on the cutting edge of these dynamic fields, constantly seeking opportunities to enhance his skills and expand his knowledge. His ultimate goal is to leverage this expertise to make a meaningful and positive impact on the industry and beyond.
+          I am an entrepreneurial rising junior with a profound interest in the integration of finance and technology in the business world. I'm passionate and dedicated to staying on the cutting edge of these dynamic fields, constantly seeking opportunities to enhance my skills and expand my knowledge. My ultimate goal is to leverage this expertise to make a meaningful and positive impact on the industry and beyond.
           </p>
           <div className="flex flex-row justify-start mt-8">
             <TabButton
