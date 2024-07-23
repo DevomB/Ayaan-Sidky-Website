@@ -29,8 +29,8 @@ const projectsData = [
     description: "Stock Star is your premier Chrome extension for monitoring stock market summaries and visualizing trends over time",
     image: "/images/projects/stockstar-full.png",
     tag: ["All",],
-    gitUrl: "/",
-    previewUrl: "/",
+    gitUrl: "javascript:void(0)",
+    previewUrl: "javascript:void(0)",
   },
   {
     id: 4,
@@ -38,8 +38,8 @@ const projectsData = [
     description: "Building 5+ AI apps with 98% accuracy as seen by 1000+ users; coached by Amazon, Bloomberg, Capital One, and MIT graduate engineers.",
     image: "/images/projects/headstart-full.png",
     tag: ["All",],
-    gitUrl: "/",
-    previewUrl: "/",
+    gitUrl: "javascript:void(0)",
+    previewUrl: "javascript:void(0)",
   },
   {
     id: 5,
@@ -47,8 +47,8 @@ const projectsData = [
     description: "Expert web development services tailored to your needs, enhancing online presence and driving digital growth",
     image: "/images/projects/webw-full.png",
     tag: ["All",],
-    gitUrl: "/",
-    previewUrl: "/",
+    gitUrl: "javascript:void(0)",
+    previewUrl: "javascript:void(0)",
   },
   {
     id: 6,
@@ -56,8 +56,8 @@ const projectsData = [
     description: "Managing all external communication for the largest local chapter in the nation with 1100+ members through press releases, and guest speakers.",
     image: "/images/projects/fbla-full.png",
     tag: ["All",],
-    gitUrl: "/",
-    previewUrl: "/",
+    gitUrl: "javascript:void(0)",
+    previewUrl: "https://www.instagram.com/mustangsfbla/",
   },
 ];
 
