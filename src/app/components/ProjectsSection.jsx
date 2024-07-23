@@ -17,7 +17,7 @@ const projectsData = [
   {
     id: 2,
     title: "The IB Project",
-    description: "Fully supporting family-owned businesses. ranging from financial aid to business consultations actively raising $2000+ in support. ",
+    description: "Fully supporting family-owned businesses. ranging from financial aid to business consultations actively raising $2000+ in support.",
     image: "/images/projects/ib-full.png",
     tag: ["All", "Initiatives"],
     gitUrl: "javascript:void(0)",
@@ -26,7 +26,7 @@ const projectsData = [
   {
     id: 3,
     title: "Stock Star",
-    description: "Stock Star is your premier Chrome extension for monitoring stock market summaries and visualizing trends over time",
+    description: "Stock Star is your premier Chrome extension for monitoring stock market summaries and visualizing trends over time.",
     image: "/images/projects/stockstar-full.png",
     tag: ["All","Upcoming"],
     gitUrl: "javascript:void(0)",
@@ -44,7 +44,7 @@ const projectsData = [
   {
     id: 5,
     title: "WebWork Innovations",
-    description: "Expert web development services tailored to your needs, enhancing online presence and driving digital growth",
+    description: "Expert web development services tailored to your needs, enhancing online presence and driving digital growth.",
     image: "/images/projects/webw-full.png",
     tag: ["All","Upcoming"],
     gitUrl: "javascript:void(0)",
