@@ -14,8 +14,8 @@ const TAB_DATA = [
         <li>Computer Skills</li>
         <li>Leadership</li>
         <li>Team Management</li>
-        <li>Technology integration</li>
-        <li>Press releases</li>
+        <li>Technology Integration</li>
+        <li>Press Releases</li>
         <li>Microsoft Office</li>
       </ul>
     ),

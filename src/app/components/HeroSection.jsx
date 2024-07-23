@@ -49,11 +49,11 @@ const HeroSection = () => {
               Hire Me
             </Link>
             <Link
-              href="https://github.com/ayaansidky"
+              href="https://linkedin.com/in/ayaansid"
               className="px-1 inline-block py-1 w-full sm:w-fit rounded-full bg-gradient-to-br from-regGreen-set-500 to-cyan-set-400 hover:bg-slate-800 text-white mt-3"
             >
               <span className="block bg-[#121212] hover:bg-slate-800 rounded-full px-5 py-2">
-                View my work
+                Connect
               </span>
             </Link>
           </div>
