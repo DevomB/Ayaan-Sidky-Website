@@ -1,5 +1,6 @@
 import './globals.css'
 import { Inter } from 'next/font/google'
+import NoCodeView from './components/NoCodeView'
 
 const inter = Inter({ subsets: ['latin'] })
 
@@ -11,7 +12,11 @@ export const metadata = {
 export default function RootLayout({ children }) {
   return (
     <html lang="en">
-      <body className={inter.className}>{children}</body>
+      <body className={inter.className} oncontextmenu="return false;">
+        <NoCodeView>
+          {children}
+        </NoCodeView>
+      </body>
     </html>
   )
 }
