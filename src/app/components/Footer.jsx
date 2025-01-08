@@ -9,7 +9,7 @@ const Footer = () => {
           <Image src="/images/new-as-trans-logo.png" alt="Logo" layout="intrinsic" width={75} height={75} />
         </div>
         <a 
-          href="https://github.com/devom-brahmbhatt" 
+          href="https://https://github.com/DevomB/Ayaan-Sidky-Website" 
           className="text-green-500 text-center hover:underline"
           target="_blank" 
           rel="noopener noreferrer"
